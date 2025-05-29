@@ -1,6 +1,6 @@
 # 🛒 E-commerce React App
 
-Este proyecto es una Single Page Application (SPA) de tipo e-commerce desarrollada con **React** como proyecto final del curso de React de Coderhouse. Permite visualizar productos, ver detalles, agregarlos al carrito y realizar una compra, almacenando la orden en **Firebase Firestore**.
+Este proyecto es un e-commerce desarrollada con **React** como proyecto final del curso de React de Coderhouse. Permite visualizar productos, ver detalles, agregarlos al carrito y realizar una compra, almacenando la orden en **Firebase Firestore**.
 
 ## 🚀 Funcionalidades
 
