@@ -29,8 +29,8 @@ Este proyecto es un e-commerce desarrollada con **React** como proyecto final de
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/Pipe-Stack/ProyectoFinalRivas.git
+   cd ProyectoFinalRivas
 
 
 # 👤 Autor
