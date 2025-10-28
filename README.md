@@ -34,4 +34,4 @@ Este proyecto es un e-commerce desarrollada con **React** como proyecto final de
 
 
 # 👤 Autor
-Desarrollado por Guillermo Rivas como entrega final para el curso de React JS - Coderhouse.
+Desarrollado por Felipe Quinteros como entrega final para el curso de React JS - Coderhouse.
